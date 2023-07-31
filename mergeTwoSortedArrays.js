@@ -10,7 +10,8 @@ A merged sorted array consisting of all elements of both input arrays.
 */
 
 // solution 1
-// using spread oper
+// using spread operator
+/*
 function mergeArrays(arr1, arr2) {
     return [...arr1, ...arr2].sort((a, b) => a - b);
 }
