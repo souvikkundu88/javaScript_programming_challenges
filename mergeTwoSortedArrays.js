@@ -47,7 +47,7 @@ function mergeArrays(arr1, arr2) {
 
     }
 
-
     return merged;
 }
+
 console.log(mergeArrays([4,5,6],[-2,-1,0,7]))
