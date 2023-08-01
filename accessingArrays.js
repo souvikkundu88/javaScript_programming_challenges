@@ -10,7 +10,7 @@ for (let v of vals) { // string v is read only
     console.log(v);
 }
 
-let mix = ['a', 1, 2.5, 'i', 50, 6, 'm', 4.4, 6.7, 's', '@educative'];
+let mix = ['a', 1, 2.5, 'i', 50, 6, 'm', 4.4, 6.7, 's', '@edureka'];
 console.log('List index using "length"');
 for (let v = 0; v < mix.length; v++) {
     console.log(mix[v]);
