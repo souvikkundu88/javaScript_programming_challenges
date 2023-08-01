@@ -1,2 +1,2 @@
-# javaScript_programming_practice
+#### javaScript_programming_practice
  Practicing coding challenges in JavaScript
